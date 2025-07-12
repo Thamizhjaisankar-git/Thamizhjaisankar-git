@@ -14,12 +14,12 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 - 🔭 Always eager to collaborate on innovative tech ideas
 
 🛠 Tech Stack
-		Languages: C, Core Java  
-		Web Development: HTML5, CSS3, Tailwind, Bootstrap, JavaScript, React.js  
-		Backend: Node.js  
-		Databases: MongoDB, MySQL  
-		UI/UX Design: Figma  
-		Tools: Git, VS Code, Figma  
+- Languages: C, Core Java  
+- Web Development: HTML5, CSS3, Tailwind, Bootstrap, JavaScript, React.js  
+- Backend: Node.js  
+- Databases: MongoDB, MySQL  
+-     UI/UX Design: Figma  
+- Tools: Git, VS Code, Figma  
 
 📌 Featured Projects
 | Project Name       | Description                                     | Link        |
@@ -40,8 +40,8 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 
 📬 Connect with Me
 
-💼 [LinkedIn]  
-🌐 [Portfolio] 
-✉️ thamizhjaisankar@gmail.com  
+💼 [LinkedIn](www.linkedin.com/in/thamizhjaisankar) 
+🌐 [Portfolio](https://portfolio-fawn-beta-24.vercel.app/) 
+✉️ [Gmail](thamizhjaisankar@gmail.com)  
 
 ✨ Thanks for visiting my profile. Let’s build something awesome together!_ 🚀
