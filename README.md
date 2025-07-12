@@ -14,12 +14,12 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 - 🔭 Always eager to collaborate on innovative tech ideas
 
 🛠 Tech Stack
-	Languages: C, Core Java  
-	Web Development: HTML5, CSS3, Tailwind, Bootstrap, JavaScript, React.js  
-	Backend: Node.js  
-	Databases: MongoDB, MySQL  
-	UI/UX Design: Figma  
-	Tools: Git, VS Code, Figma  
+		Languages: C, Core Java  
+		Web Development: HTML5, CSS3, Tailwind, Bootstrap, JavaScript, React.js  
+		Backend: Node.js  
+		Databases: MongoDB, MySQL  
+		UI/UX Design: Figma  
+		Tools: Git, VS Code, Figma  
 
 📌 Featured Projects
 | Project Name       | Description                                     | Link        |
@@ -37,9 +37,9 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 
 🏆 Achievements
 
-•	 🥇 University Rank Holder (1st, 2nd, and 3rd across multiple semesters)
+  • 🥇 University Rank Holder (1st, 2nd, and 3rd across multiple semesters)
 
-•	 🏅 3rd Place in "Code Act" – NEXGEN Tech’24, St. Joseph’s College
+  • 🏅 3rd Place in "Code Act" – NEXGEN Tech’24, St. Joseph’s College
 
 📬 Connect with Me
 
