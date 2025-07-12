@@ -1,16 +1,44 @@
-## Hi there 👋
+🌟 Thamizh Jaisankar
+ CSE Graduate | Frontend Developer | Figma Enthusiast 
+📍 Chennai, Tamil Nadu | ✉️ thamizhjaisankar@gmail.com  
+🔗 [Portfolio](https://portfolio-fawn-beta-24.vercel.app/) | [GitHub Profile](https://github.com/Thamizhjaisankar-git) | [LinkedIn](www.linkedin.com/in/thamizhjaisankar)
 
-<!--
-**Thamizhjaisankar-git/Thamizhjaisankar-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 About Me
+Hello! I'm Thamizh, an efficient and dedicated web developer passionate about building scalable, intelligent and user-centric applications. I specialize in creating clean, responsive and impactful web solutions that solve real-world problems.
+- 💻 Skilled in Frontend development, MERN Stack and UI/UX designing
+- 🧠 Currently learning Full Stack Development with Java at Besant Technologies, Chennai 
+- 🎯 My goal is to build efficient, user-focused applications that solve real-world problems.
+- 🔭 Always eager to collaborate on innovative tech ideas
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+	Languages: C, Core Java  
+	Web Development: HTML5, CSS3, Tailwind, Bootstrap, JavaScript, React.js  
+	Backend: Node.js  
+	Databases: MongoDB, MySQL  
+	UI/UX Design: Figma  
+	Tools: Git, VS Code, Figma  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Projects
+| Project Name       | Description                                     | Link        |
+|--------------------|-------------------------------------------------|-------------|
+| Comprify           | Smart shopping experience with IoT and CV       | [GitHub](#) |
+| Developer Toolkit  | Web tools for developer productivity            | [GitHub](#) |
+| RuralConnect       | Multilingual telehealth platform                | [GitHub](#) |
+| E-Commerce App     | Amazon-style shopping website for users         | [GitHub](#) |
+ 
+📚 Education
+- 🎓 B.E (Hons) - Computer Science Engineering 
+-  Parisutham Institute of Technology and Science (Anna University) | CGPA: 8.68 
+- Ongoing: Learning Full Stack Development with Java at Besant Technologies, Chennai
+
+
+🏆 Achievements
+•	 🥇 University Rank Holder (1st, 2nd, and 3rd across multiple semesters)
+•	 🏅 3rd Place in "Code Act" – NEXGEN Tech’24, St. Joseph’s College
+
+📬 Connect with Me
+💼 [LinkedIn]  
+🌐 [Portfolio] 
+✉️ thamizhjaisankar@gmail.com  
+
+✨ Thanks for visiting my profile. Let’s build something awesome together!_ 🚀
