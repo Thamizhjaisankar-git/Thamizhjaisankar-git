@@ -5,7 +5,6 @@
 ✉️ [thamizhjaisankar@gmail.com](mailto:thamizhjaisankar@gmail.com)  
 🔗 [Portfolio](https://portfolio-fawn-beta-24.vercel.app/) • [GitHub](https://github.com/Thamizhjaisankar-git) • [LinkedIn](https://www.linkedin.com/in/thamizhjaisankar)
 
----
 
 ## 👋 About Me
 
@@ -16,7 +15,6 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 - 🎯 My goal is to build efficient, user-focused applications that solve real-world problems  
 - 🔭 Always eager to collaborate on innovative tech ideas  
 
----
 
 ## 🛠 Tech Stack
 
@@ -27,7 +25,6 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 - **UI/UX Design:** Figma  
 - **Tools:** Git, VS Code, Figma  
 
----
 
 ## 📌 Featured Projects
 
@@ -38,7 +35,6 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 | RuralConnect        | Multilingual telehealth platform                 | [GitHub](#) |
 | E-Commerce App      | Amazon-style shopping website for users         | [GitHub](#) |
 
----
 
 ## 📚 Education
 
@@ -47,14 +43,12 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
   CGPA: 8.68  
 - 📘 Currently learning Full Stack Development with Java at Besant Technologies, Chennai
 
----
 
 ## 🏆 Achievements
 
 - 🥇 University Rank Holder (1st, 2nd, and 3rd across multiple semesters)  
 - 🏅 3rd Place in "Code Act" – NEXGEN Tech’24, St. Joseph’s College
 
----
 
 ## 📬 Connect with Me
 
