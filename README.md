@@ -34,12 +34,9 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 -  Parisutham Institute of Technology and Science (Anna University) | CGPA: 8.68 
 - Ongoing: Learning Full Stack Development with Java at Besant Technologies, Chennai
 
-
 🏆 Achievements
-
-  • 🥇 University Rank Holder (1st, 2nd, and 3rd across multiple semesters)
-
-  • 🏅 3rd Place in "Code Act" – NEXGEN Tech’24, St. Joseph’s College
+- 🥇 University Rank Holder (1st, 2nd, and 3rd across multiple semesters)
+- 🏅 3rd Place in "Code Act" – NEXGEN Tech’24, St. Joseph’s College
 
 📬 Connect with Me
 
