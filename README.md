@@ -56,7 +56,6 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 - 🌐 [Portfolio](https://portfolio-fawn-beta-24.vercel.app/)  
 - ✉️ [Email Me](mailto:thamizhjaisankar@gmail.com)  
 
----
 
 ✨ _Thanks for visiting my profile. Let’s build something awesome together!_ 🚀
 
