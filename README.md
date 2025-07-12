@@ -36,10 +36,13 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 
 
 🏆 Achievements
+
 •	 🥇 University Rank Holder (1st, 2nd, and 3rd across multiple semesters)
+
 •	 🏅 3rd Place in "Code Act" – NEXGEN Tech’24, St. Joseph’s College
 
 📬 Connect with Me
+
 💼 [LinkedIn]  
 🌐 [Portfolio] 
 ✉️ thamizhjaisankar@gmail.com  
