@@ -10,7 +10,7 @@
 
 Hello! I'm Thamizh, an efficient and dedicated web developer passionate about building scalable, intelligent and user-centric applications. I specialize in creating clean, responsive and impactful web solutions that solve real-world problems. I am currently undergoing training at Bluescope Technologies - Chennai, where I am sharpening my technical and professional skills.
 
-- 💻 Skilled in Frontend Development, MERN Stack, and UI/UX Designing  
+- 💻 Skilled in Frontend Development, MERN Stack and UI/UX Designing  
 - 🧠 Currently learning Full Stack Development with Java at Besant Technologies, Chennai  
 - 🎯 My goal is to build efficient, user-focused applications that solve real-world problems  
 - 🔭 Always eager to collaborate on innovative tech ideas  
@@ -18,12 +18,12 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 
 ## 🛠 Tech Stack
 
-- **Languages:** C, Core Java  
+- **Languages:** Core Java  
 - **Web Development:** HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, React.js  
-- **Backend:** Node.js  
-- **Databases:** MongoDB, MySQL  
+- **Backend:** Springboot
+- **Databases:** MySQL, MongoDB
 - **UI/UX Design:** Figma  
-- **Tools:** Git, VS Code, Figma  
+- **Tools:** Git, VS Code, Figma, mermaid  
 
 
 ## 📌 Featured Projects
