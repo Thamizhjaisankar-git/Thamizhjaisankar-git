@@ -31,9 +31,10 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 | Project Name        | Description                                     | Link        |
 |---------------------|-------------------------------------------------|-------------|
 | Comprify            | Smart shopping experience with IoT and CV       | [GitHub](https://github.com/Thamizhjaisankar-git/Comprify_pos.git) |
-| Developer Toolkit   | Web tools for developer productivity             | [GitHub](https://github.com/Thamizhjaisankar-git/Developer_Toolkit_Website.git) |
-| WanderLust          | Multilingual telehealth platform                 | [GitHub](https://github.com/Thamizhjaisankar-git/Wanderlust-Travel-Website.git) |
+| Developer Toolkit   | Web Doc for developer productivity             | [GitHub](https://github.com/Thamizhjaisankar-git/Developer_Toolkit_Website.git) |
+| WanderLust          | A travel hub for exploring destinations and planning adventures | [GitHub](https://github.com/Thamizhjaisankar-git/Wanderlust-Travel-Website.git) |
 | E-Commerce App      | Amazon-style shopping website for users         | [GitHub](https://github.com/Thamizhjaisankar-git/amazon-clone.git) |
+| Disaster management system | A platform for real-time disaster alerts and emergency help | [GitHub](https://github.com/Thamizhjaisankar-git/Disaster-management-app.git) |
 
 
 ## 📚 Education
