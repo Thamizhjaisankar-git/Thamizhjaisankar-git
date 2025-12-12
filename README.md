@@ -30,10 +30,10 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 
 | Project Name        | Description                                     | Link        |
 |---------------------|-------------------------------------------------|-------------|
-| Comprify            | Smart shopping experience with IoT and CV       | [GitHub](#) |
-| Developer Toolkit   | Web tools for developer productivity             | [GitHub](#) |
-| RuralConnect        | Multilingual telehealth platform                 | [GitHub](#) |
-| E-Commerce App      | Amazon-style shopping website for users         | [GitHub](#) |
+| Comprify            | Smart shopping experience with IoT and CV       | [GitHub](https://github.com/Thamizhjaisankar-git/Comprify_pos.git) |
+| Developer Toolkit   | Web tools for developer productivity             | [GitHub](https://github.com/Thamizhjaisankar-git/Developer_Toolkit_Website.git) |
+| WanderLust          | Multilingual telehealth platform                 | [GitHub](https://github.com/Thamizhjaisankar-git/Wanderlust-Travel-Website.git) |
+| E-Commerce App      | Amazon-style shopping website for users         | [GitHub](https://github.com/Thamizhjaisankar-git/amazon-clone.git) |
 
 
 ## 📚 Education
