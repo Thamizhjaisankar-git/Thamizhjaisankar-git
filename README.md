@@ -53,7 +53,7 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 ## 📬 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thamizhjaisankar)  
-- 🌐 [Portfolio](https://portfolio-fawn-beta-24.vercel.app/)  
+- 🌐 [Portfolio](https://thamizh-jl.vercel.app/)  
 - ✉️ [Email Me](mailto:thamizhjaisankar@gmail.com)  
 
 
