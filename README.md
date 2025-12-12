@@ -19,7 +19,7 @@ Hello! I'm Thamizh, an efficient and dedicated web developer passionate about bu
 ## 🛠 Tech Stack
 
 - **Languages:** Core Java  
-- **Web Development:** HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, React.js  
+- **Web Development:** HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, Typescript, React.js  
 - **Backend:** Springboot
 - **Databases:** MySQL, MongoDB
 - **UI/UX Design:** Figma  
