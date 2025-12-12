@@ -3,7 +3,7 @@
 **CSE Graduate | Frontend Developer | Figma Enthusiast**  
 📍 Chennai, Tamil Nadu  
 ✉️ [thamizhjaisankar@gmail.com](mailto:thamizhjaisankar@gmail.com)  
-🔗 [Portfolio](https://portfolio-fawn-beta-24.vercel.app/) | [GitHub](https://github.com/Thamizhjaisankar-git) | [LinkedIn](https://www.linkedin.com/in/thamizhjaisankar)
+🔗 [Portfolio](https://thamizh-jl.vercel.app/) | [GitHub](https://github.com/Thamizhjaisankar-git) | [LinkedIn](https://www.linkedin.com/in/thamizhjaisankar)
 
 
 ## 👋 About Me
